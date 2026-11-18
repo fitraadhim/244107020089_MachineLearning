@@ -9,3 +9,8 @@ __pycache__/
 # JS14 dataset assets
 JS14/dataset/
 JS14/dataset.zip
+JS14/cifar10/
+JS15/images/
+
+# Model besar (melebihi batas 100 MB GitHub) - simpan lokal, regenerate dari notebook
+JS15/day_night_model.pkl
