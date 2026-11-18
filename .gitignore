@@ -1,0 +1,11 @@
+# Python
+.venv*/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# JS14 dataset assets
+JS14/dataset/
+JS14/dataset.zip
